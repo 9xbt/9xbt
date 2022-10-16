@@ -1,4 +1,4 @@
 # About me
 I'm just a random guy that likes programming and old computer stuff...
 
-Website -> mobren.net (currently dead for some reason fuck my server pc)
+My Website: www.mobren.net
