@@ -1,4 +1,3 @@
 # About me
-I'm just a random guy that likes programming and old computer stuff...
-
-My Website: www.mobren.net
+I'm just a guy that likes programming and old computer stuff.
+Also go see https://github.com/ekeleze.
